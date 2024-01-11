@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandwichcreator
-- 👀 I’m interested in cybersecurity and video games.
-- 🌱 I’m currently learning novice penetration testing and intermediate networking.
-- 💞️ I’m looking to collaborate on cybersecurity projects.
+- 👀 I'm interested in building full stack applications.
+- 🌱 I'm currently a support engineer that builds internal and customer facing tools for products.
+- 💞️ I'm looking to collaborate on interesting applications!
 - 📫 How to reach me ...
 
 <!---
